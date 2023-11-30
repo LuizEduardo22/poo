@@ -2,7 +2,6 @@ let celsius = document.querySelector('#celsius')
 let fahrenheit = document.querySelector('#fahrenheit')
 let kelvin = document.querySelector('#kelvin')
 
-// input number
 let numeroC = document.querySelector('#numeroC')
 let numeroF = document.querySelector('#numeroF')
 let numeroK = document.querySelector('#numeroK')
